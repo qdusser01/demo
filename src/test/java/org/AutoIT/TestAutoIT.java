@@ -20,6 +20,8 @@ public class TestAutoIT {
 		WebDriver driver = new ChromeDriver ();
 		driver.manage().timeouts().implicitlyWait(8, TimeUnit.SECONDS);
 		
+		//HELLO
+		
 		//accès à gmail.com
 		driver.get("https://gmail.com");
 		
