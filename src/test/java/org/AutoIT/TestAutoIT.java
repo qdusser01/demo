@@ -48,6 +48,7 @@ public class TestAutoIT {
 		//Envoie le message
 		driver.findElement(By.xpath("//div[.='Envoyer']/div[.='Envoyer']")).click();
 		
+		//Hello!
 		
 	}
 
